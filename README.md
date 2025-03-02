@@ -71,3 +71,9 @@ Data inserted successfully
 cli-db> VIEW DESC EMPLOYEE
 ```
 ![Table Description](./images/tableDesc.png)
+
+### View table data
+```
+cli-db> VIEW INFO EMPLOYEE
+```
+![Table Description](./images/tableInfo.png)
