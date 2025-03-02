@@ -99,7 +99,7 @@ Table deleted Successfully
 
 ### Exiting from table
 ```
-cli-db> EXIT
+cli-db> exit
 ```
 
 ### Delete database
@@ -110,5 +110,5 @@ Database deleted Successfully
 
 ### Exiting from database
 ```
-cli-db> EXIT
+cli-db> exit
 ```
