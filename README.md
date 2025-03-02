@@ -77,3 +77,31 @@ cli-db> VIEW DESC EMPLOYEE
 cli-db> VIEW INFO EMPLOYEE
 ```
 ![Table Description](./images/tableInfo.png)
+
+### Show tables
+```
+cli-db> SHOW TABLES
+employee
+```
+
+### Delete table
+```
+cli-db> DELETE EMPLOYEE
+Table deleted Successfully
+```
+
+### Exiting from table
+```
+cli-db> EXIT
+```
+
+### Delete database
+```
+cli-db> DELETE BANK
+Database deleted Successfully
+```
+
+### Exiting from database
+```
+cli-db> EXIT
+```
