@@ -69,5 +69,5 @@ Data inserted successfully
 ### View table format
 ```
 cli-db> VIEW DESC EMPLOYEE
-![Table Description](https://github.com/Abhishek-Soni-25/cli-db/blob/main/images/tableDesc.png)
 ```
+![Table Description](./images/tableDesc.png)
