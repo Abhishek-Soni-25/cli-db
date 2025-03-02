@@ -7,11 +7,11 @@ pip install tabulate
 ```
 Execute cli-db/main.py
 ```
-python main.py
+python cli-db/main.py
 ```
 Execute cli-db/cli/main.py
 ```
-python main.py
+python cli-db/cli/main.py
 ```
 
 ### Linux
@@ -20,12 +20,16 @@ sudo apt install python3-tabulate
 ```
 Execute cli-db/main.py
 ```
-python3 main.py
+python3 cli-db/main.py
 ```
 Execute cli-db/cli/main.py
 ```
-python3 main.py
+python3 cli-db/cli/main.py
 ```
+
+## Folder Structure
+> [!WARNING]
+> ![Folder Structure](./images/folderStructure.png)
 
 > [!WARNING]
 > Ensure folder named `database` is inside `cli-db` folder
@@ -79,7 +83,7 @@ cli-db> VIEW DESC EMPLOYEE
 ```
 cli-db> VIEW INFO EMPLOYEE
 ```
-![Table Description](./images/tableInfo.png)
+![Table Information](./images/tableInfo.png)
 
 ### Show tables
 ```
