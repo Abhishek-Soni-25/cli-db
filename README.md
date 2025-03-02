@@ -27,6 +27,9 @@ Execute cli-db/cli/main.py
 python3 main.py
 ```
 
+> [!WARNING]
+> Ensure folder named `database` is inside `cli-db` folder
+
 ## Example Usage
 ### Creating database
 ```
