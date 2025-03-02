@@ -46,8 +46,8 @@ cli-db> USE BANK
 ```
 
 ### Creating table
-[!NOTE]
-Ensure no spacing between column names
+> [!WARNING]
+> Ensure no spacing between column names
 ```
 cli-db> CREATE EMPLOYEE (ID,NAME,AGE,SALARY)
 Table created successfully
@@ -55,7 +55,7 @@ Table created successfully
 
 
 ### Inserting data
-> [!NOTE]
+> [!IMPORTANT]
 > Ensure no spacing between column names
 ```
 cli-db> INSERT (1,Rohan,25,230000) EMPLOYEE
@@ -69,4 +69,5 @@ Data inserted successfully
 ### View table format
 ```
 cli-db> VIEW DESC EMPLOYEE
+![image](images/tableDesc.png)
 ```
