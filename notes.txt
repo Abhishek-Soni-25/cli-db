@@ -1,0 +1,12 @@
+// db management system
+
+create db               CREATE DATABASE DBNAME                
+create tables           CREATE TABLENAME (COLUMN1,COLUMN2,...)  
+insert data             INSERT (DATA1,DATA2,..) TABLENAME        
+can see the data        VIEW INFO TABLENAME                     
+show table format       VIEW DESC TABLENAME                         
+use a particular db     USE DBNAME                                     
+del table               DELETE TABLENAME                        
+del db                  DELETE DBNAME                
+show tables             SHOW TABLES                           
+show db                 SHOW DATABASES                        
